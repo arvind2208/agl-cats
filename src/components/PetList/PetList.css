@@ -1,0 +1,29 @@
+h2.petlist {
+    line-height: 50px;
+    margin-top: 12px;
+    padding-left: 25px;
+}
+
+ul.petlist {
+    list-style: none;
+    line-height: 50px;
+    display: list-item;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+ul.petlist li {
+    height: 40px;
+    font-size: 20px;
+    line-height: 50px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .50);
+    border-radius: 10px;
+    margin-top: 12px;
+    background: #7794ad;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+ul[data-gender='Owned by females'] li {
+    background: #d3a7b5;
+}

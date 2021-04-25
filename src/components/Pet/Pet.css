@@ -1,0 +1,32 @@
+.left {
+    float: left;
+    width: 100%;
+}
+
+.left {
+    float: left;
+    width: 50%;
+}
+.right {
+    float: left;
+    width: 50%;
+}
+h1.pet {
+    line-height: 42px;
+    margin-top: 12px;
+    text-align: center;
+}
+
+label.pet {
+    font-size: 25px;
+    line-height: 42px;
+    margin-top: 12px;
+    padding-left: 25px;
+}
+
+select.pet {
+    font-size: 25px;
+    line-height: 42px;
+    margin-top: 12px;
+    padding-left: 25px;
+}
